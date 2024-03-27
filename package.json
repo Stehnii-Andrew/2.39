@@ -1,0 +1,20 @@
+{
+  "name": "35",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/app.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "mongoose": "^8.2.3",
+    "morgan": "~1.9.1",
+    "path": "^0.12.7"
+  }
+}
